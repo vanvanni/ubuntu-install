@@ -29,6 +29,7 @@ sudo snap install phpstorm --classic < /dev/null
 sudo snap install discord < /dev/null
 sudo snap install slack < /dev/null
 sudo snap install beekeeper-studio < /dev/null
+sudo snap install brave
 
 # Structure
 mkdir $HOME/Code
